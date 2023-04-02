@@ -1,0 +1,43 @@
+/* .parent {
+  position: relative;
+  top: 30px;
+  margin: 0 50px;
+  font-family: sans-serif;
+}
+
+nav {
+  margin-top: 30px;
+  height: 50px;
+  font-family: 'Poppins', sans-serif;
+  color: black;
+}
+
+.indoapril {
+  float: left;
+  margin: auto 50px;
+}
+
+.indoapril a {
+  text-decoration: none;
+}
+
+nav ul li a{
+  color: white; 
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 20px;
+}
+
+nav ul li {
+  list-style: none;
+  float: right;
+  margin-right: 30px;
+}
+
+footer {
+  margin-top: 30vh;
+  position: relative;
+  background-color: #9999;
+  padding: 20px;
+  box-sizing: border-box; 
+} */
